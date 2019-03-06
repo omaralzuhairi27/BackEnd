@@ -7,7 +7,6 @@ import java.util.stream.IntStream;
 
 @Scope("prototype")
 @Component
-
 public class Primes {
     public Boolean isPrime(Integer number) {
         return number > 1 && IntStream.range(2, number)

@@ -1,4 +1,4 @@
-package at.nacs.rockscisserpaper;
+package at.nacs.rockscisserpaper.logic;
 
 public class Judge {
 }

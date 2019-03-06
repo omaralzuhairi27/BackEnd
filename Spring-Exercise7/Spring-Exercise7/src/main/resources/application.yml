@@ -1,0 +1,13 @@
+tournament:
+  teams:
+    - name: Gettin' Wiggy With It.
+      players: Tomson, Gary, Peter
+    - name: Better Call Gasol.
+      players: Sam, Gasol, Lila
+    - name: Adam's Family.
+      players: Morticia, Wednesday, Gomez
+    - name: Locker Room Talk.
+      players: Sara, Leticia, Josh
+    - name: Skyhookers.
+      players: Samuel, Seth, Antonia
+

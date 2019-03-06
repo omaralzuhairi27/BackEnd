@@ -28,7 +28,7 @@ public class BeansGenerator {
     public List<String> getTheLastElement(Queue <Bean> beans) {
         IntStream.generate(() -> 0)
                 .takeWhile(n -> beans.size() > 1)
-                .mapToObj((a1 -> beans.poll().getColor().equals(beans.poll().getColor())))
+                .mapToObj((a1 -> t
                 .map(b -> b ? beans.add(Bean.builder().color("black").build()) : beans.add(Bean.builder().color("white").build()))
                 .collect(Collectors.toList());
         return (List)beans;

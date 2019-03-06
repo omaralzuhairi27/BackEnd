@@ -1,0 +1,26 @@
+words:
+  first: fantastic
+number:
+  first: 369
+week:
+  days: Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+
+book:
+  quantity:
+    Harry_Potter: 3
+    The_Foundation: 2
+    The_Lord_Of_The_Rings: 2
+
+leisure:
+  sauna:
+    availableSeats: 10
+    temperature: 70.1
+
+dancers:
+  ballerinas:
+    - name: Tamara
+      performanceQuality: 5
+    - name: Niklas
+      performanceQuality: 5
+    - name: You
+      performanceQuality: 1
