@@ -1,0 +1,36 @@
+customer:
+  names: Ms. Sofia, Mr. Bean, Rodrigo
+forms:
+  templates:
+    - message: My dearest FAMILY {name}!
+      beginnings: -----
+      ending: Threepwood
+    - message: Good day SIR {name}!
+      beginnings: Mr.
+      ending: -----
+    - message: Dear MISS/MISSIS {name}!
+      beginnings: Mrs., Ms.
+      ending: --------
+    - message: Hello NORMAL {name}!
+      beginnings:
+      ending:
+#customer:
+#  names: Ms. Sofia, Mrs. Isabela, Ms. Camila, Mrs. Valentina, Ms. Valeria, Mrs. Mariana, Mr. Santiago, Mr. Sebastian, Mr. Matias, Mr. Mateo, Mr. Alejandro, Mr. Diego, Daniela Threepwood, Ms. Gabriela Threepwood, Mrs. Martina Threepwood, Mr. Samuel Threepwood,Lucia, Sara, Emma, Agustin, Juan Pablo, Rodrigo
+#forms:
+#  templates:
+#    - privileged:
+#        message: My dearest {name}, your lovely family gives you a 20% discount on tickets this Friday!
+#        beginnings:
+#        ending: Threepwood
+#    - male:
+#        message: Good day {name}, don’t forget our 20% discount on tickets this Friday!
+#        beginnings: Mr.
+#        ending:
+#    - female:
+#        message: Dear {name}, you and your friends will have so much fun at the cinema this Friday with a 20% discount!-
+#        beginnings: Mrs., Ms.
+#        ending:
+#    - normal:
+#        message: Hello {name}! How about a Friday night movie? This week with a 20% discount!
+#        beginnings:
+#        ending:

@@ -1,85 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1ef926-fedb-4db8-b338-991875deba98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4a72f96e-cafb-4566-b09e-44ec02044951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spring-Reflection/src/main/java/at/nasc/demo/SecretHandshake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BackEndWeek1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEndWeek1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackEndWeek1/src/CaffeeCan/Controller/BeansGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEndWeek1/src/CaffeeCan/Controller/BeansGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/main/java/at/nacs/ex2amazinghelloworld/PrimeAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/at/nacs/ex2amazinghelloworld/PrimeAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../refliction-week2/src/main/java/at/nacs/ex2amazinghelloworld/Primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refliction-week2/src/main/java/at/nacs/ex2amazinghelloworld/Primes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/configuration/GameConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/configuration/GameConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/configuration/MoveConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/configuration/MoveConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/configuration/PlayerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/configuration/PlayerConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/domain/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/domain/Move.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/Judge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/Moves.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/Moves.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/player/ComputerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/player/ComputerPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/player/HumanPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/player/HumanPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/main/java/at/nacs/rockscisserpaper/logic/player/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rock-scisser-paper/src/test/java/at/nacs/rockscisserpaper/logic/MovesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rock-scisser-paper/src/test/java/at/nacs/rockscisserpaper/logic/MovesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/example/test/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/com/example/test/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/configuration/TournamentConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/configuration/TournamentConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/domain/BasketballTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/domain/BasketballTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/domain/BasketballTeamLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Court.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Court.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/ui/Announcer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/ui/Announcer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/test/java/at/nacs/ex7streetbasketballtournament/BasketballTeamLoaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/test/java/at/nacs/ex7streetbasketballtournament/CourtTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring-part2-Exercise6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-part2-Exercise6/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/../../Week3WithPaulius/backend-week3/ex-9-cinema-message-template/target/" />
+    <ignored path="$PROJECT_DIR$/ex-9-cinema-message-template/target/" />
+    <ignored path="$PROJECT_DIR$/Spring-Exercise9/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/ui/TextMessageSender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/CreativeTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/TemplateEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/TemplateConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/CinemaMessageTemplateApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>endsWith</find>
+      <find>beginning</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ending</replace>
+      <replace>beginnings</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/TemplateConfigurations.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/CinemaMessageTemplateApplicationTests.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/Privileged.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/Normal.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/FemaleTemplate.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/MaleTemplate.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/templates/MaleTemplateTest.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/TemplateEngineTest.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/CustomerLoaderTest.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/TemplateConfiguration.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/TemplateEngine.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/ui/TextMessageSender.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/CreativeTemplate.java" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="downloadDocsAutomatically" value="true" />
         <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -89,37 +206,172 @@
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ex-9-cinema-message-template" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ex-9-cinema-message-template" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551973751834" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex-9-cinema-message-template" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="at.nacs.cinemamessagetemplate.logic" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,76 +385,443 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.CinemaMessageTemplateApplication">
+    <configuration name="CinemaMessageTemplateApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Exercise9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.cinemamessagetemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.cinemamessagetemplate" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.cinemamessagetemplate.CinemaMessageTemplateApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerLoaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Exercise9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.cinemamessagetemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.cinemamessagetemplate" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.cinemamessagetemplate.CustomerLoaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerLoaderTest.loadsAllCustomers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Exercise9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.cinemamessagetemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.cinemamessagetemplate" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.cinemamessagetemplate.CustomerLoaderTest" />
+      <option name="METHOD_NAME" value="loadsAllCustomers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateEngineTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Exercise9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.cinemamessagetemplate.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.cinemamessagetemplate.logic" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.cinemamessagetemplate.logic.TemplateEngineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateEngineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring-Exercise9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.cinemamessagetemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.cinemamessagetemplate" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.cinemamessagetemplate.TemplateEngineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CinemaMessageTemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cinema-message-template" />
+      <module name="Spring-Exercise9" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.cinemamessagetemplate.CinemaMessageTemplateApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TemplateEngineTest (1)" />
+        <item itemvalue="JUnit.CinemaMessageTemplateApplicationTests" />
+        <item itemvalue="JUnit.CustomerLoaderTest.loadsAllCustomers" />
+        <item itemvalue="JUnit.TemplateEngineTest" />
+        <item itemvalue="JUnit.CustomerLoaderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5f1ef926-fedb-4db8-b338-991875deba98" name="Default Changelist" comment="" />
-      <created>1551881152319</created>
+      <changelist id="4a72f96e-cafb-4566-b09e-44ec02044951" name="Default Changelist" comment="" />
+      <created>1551887183846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551881152319</updated>
-      <workItem from="1551881155682" duration="451000" />
+      <updated>1551887183846</updated>
+      <workItem from="1551887186966" duration="472000" />
+      <workItem from="1551947667014" duration="10369000" />
+      <workItem from="1551971981675" duration="1769000" />
+      <workItem from="1552033457031" duration="558000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 05m 32s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 08m 25s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 09m 39s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 10m 31s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 17m 54s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 20m 51s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 28m 01s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 30m 35s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 36m 29s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 37m 02s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="451000" />
+    <option name="totallyTimeSpent" value="13168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <frame x="53" y="27" width="1867" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2575508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47982553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.7131952" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3293348" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2520593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.91930205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3293348" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/GreetingTemplate.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/Privileged.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/FemaleTemplate.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/MaleTemplate.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/Normal.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/TemplateConfigurations.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/CustomerLoaderTest.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/TemplateEngineTest.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/templates/MaleTemplateTest.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/CinemaMessageTemplateApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="608" column="27" selection-start-line="608" selection-start-column="20" selection-end-line="608" selection-end-column="27" />
+          <folding>
+            <element signature="e#20913#20914#0" expanded="true" />
+            <element signature="e#20967#20968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/ui/TextMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/TemplateEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/TemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/CinemaMessageTemplateApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/CreativeTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring-Exercise9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

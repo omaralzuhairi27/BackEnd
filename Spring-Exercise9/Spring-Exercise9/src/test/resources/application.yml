@@ -1,0 +1,16 @@
+#customer:
+#  names: Ms. Sofia, Mr. Bean, Rodrigo
+forms:
+  templates:
+    - message: My dearest FAMILY {name}!
+      beginnings: ZZZZ
+      ending: Threepwood
+    - message: Good day SIR {name}!
+      beginnings: Mr.
+      ending: ZZZZ
+    - message: Dear MISS/MISSIS {name}!
+      beginnings: Mrs., Ms.
+      ending: ZZZZ
+    - message: Hello NORMAL {name}!
+      beginnings:
+      ending:
