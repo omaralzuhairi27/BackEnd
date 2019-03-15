@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cinema-message-template" />
+        <module name="dutchman" />
+        <module name="ex2-amazinghelloworld" />
+        <module name="ex3-thecursedcoin" />
+        <module name="jacksparrow" />
+        <module name="marathon-client" />
+        <module name="marco-Client" />
+        <module name="marcotest" />
+        <module name="polo-server" />
+        <module name="shape" />
+        <module name="tiadalma" />
+        <module name="weather-client" />
+        <module name="weather-server" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cinema-message-template" target="11" />
+      <module name="dutchman" target="11" />
+      <module name="ex2-amazinghelloworld" target="11" />
+      <module name="ex3-thecursedcoin" target="11" />
+      <module name="jacksparrow" target="11" />
+      <module name="marathon-client" target="11" />
+      <module name="marco" target="11" />
+      <module name="marco-Client" target="11" />
+      <module name="marcotest" target="11" />
+      <module name="polo-server" target="11" />
+      <module name="shape" target="11" />
+      <module name="tiadalma" target="11" />
+      <module name="weather-client" target="11" />
+      <module name="weather-server" target="11" />
+      <module name="web" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cinema-message-template" options="-parameters" />
+      <module name="dutchman" options="-parameters" />
+      <module name="ex2-amazinghelloworld" options="-parameters" />
+      <module name="ex3-thecursedcoin" options="-parameters" />
+      <module name="jacksparrow" options="-parameters" />
+      <module name="marathon-client" options="-parameters" />
+      <module name="marco" options="-parameters" />
+      <module name="marco-Client" options="-parameters" />
+      <module name="marcotest" options="-parameters" />
+      <module name="polo-server" options="-parameters" />
+      <module name="shape" options="-parameters" />
+      <module name="tiadalma" options="-parameters" />
+      <module name="weather-client" options="-parameters" />
+      <module name="weather-server" options="-parameters" />
+      <module name="web" options="-parameters" />
+    </option>
+  </component>
+</project>

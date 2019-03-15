@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a72f96e-cafb-4566-b09e-44ec02044951" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring-Reflection/src/main/java/at/nasc/demo/SecretHandshake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BackEndWeek1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BackEndWeek1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/configuration/TournamentConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/configuration/TournamentConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/domain/BasketballTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/domain/BasketballTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/domain/BasketballTeamLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Court.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Court.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/logic/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/ui/Announcer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/java/at/nacs/ex7streetbasketballtournament/ui/Announcer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/test/java/at/nacs/ex7streetbasketballtournament/BasketballTeamLoaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Exercise7/Spring-Exercise7/src/test/java/at/nacs/ex7streetbasketballtournament/CourtTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-part2-Exercise6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-part2-Exercise6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ex-9-cinema-message-template/target/" />
     <ignored path="$PROJECT_DIR$/Spring-Exercise9/target/" />
@@ -36,23 +20,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="236">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="211">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -60,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/ui/TextMessageSender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="155">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#220#221#0" expanded="true" />
@@ -70,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/CreativeTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
+            <state relative-caret-position="522">
               <caret line="24" column="38" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/TemplateEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="279">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -124,20 +102,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="310">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java">
+        <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="155">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -182,12 +157,12 @@
         <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/TemplateEngine.java" />
         <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/resources/application.yml" />
         <option value="$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java" />
-        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java" />
         <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/ui/TextMessageSender.java" />
-        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java" />
         <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java" />
         <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/CreativeTemplate.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java" />
       </list>
     </option>
   </component>
@@ -255,15 +230,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
               <item name="configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring-Exercise9" type="b2602c69:ProjectViewProjectNode" />
@@ -352,11 +318,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551973751834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552306526933" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ex-9-cinema-message-template" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -385,7 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CinemaMessageTemplateApplication">
+  <component name="RunManager" selected="JUnit.TemplateEngineTest (1)">
     <configuration name="CinemaMessageTemplateApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Spring-Exercise9" />
       <extension name="coverage">
@@ -497,19 +463,13 @@
       <workItem from="1551947667014" duration="10369000" />
       <workItem from="1551971981675" duration="1769000" />
       <workItem from="1552033457031" duration="558000" />
+      <workItem from="1552305374343" duration="183000" />
+      <workItem from="1552305707804" duration="209000" />
+      <workItem from="1552305952397" duration="803000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 05m 32s.xml">
-      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 08m 25s.xml">
-      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 09m 39s.xml">
-      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 10m 31s.xml">
       <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
     </history-entry>
@@ -531,15 +491,24 @@
     <history-entry file="TemplateEngineTest_(1) - 2019.03.07 at 16h 37m 02s.xml">
       <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.11 at 12h 56m 27s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.11 at 13h 07m 13s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemplateEngineTest_(1) - 2019.03.11 at 13h 10m 04s.xml">
+      <configuration name="TemplateEngineTest (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13168000" />
+    <option name="totallyTimeSpent" value="14363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="27" width="1867" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2575508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2663372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -549,7 +518,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47982553" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3031625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -648,55 +617,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java" />
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/CinemaMessageTemplateApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="155">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/configuration/CinemaMessageSenderConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="236">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java">
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/ui/TextMessageSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/TemplateEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="23" />
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -710,37 +656,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/CinemaMessageTemplateApplication.java">
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/TemplateEngine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/domain/CustomerLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/templates/CreativeTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
+        <state relative-caret-position="522">
           <caret line="24" column="38" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/ui/TextMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise9/src/main/java/at/nacs/cinemamessagetemplate/logic/CinemaMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>

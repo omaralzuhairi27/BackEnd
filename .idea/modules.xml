@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BackEnd.iml" filepath="$PROJECT_DIR$/BackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Exercise9/Spring-Exercise9/cinema-message-template.iml" filepath="$PROJECT_DIR$/Spring-Exercise9/Spring-Exercise9/cinema-message-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-Piratesofthecode-bean/dutchman/dutchman.iml" filepath="$PROJECT_DIR$/web-Piratesofthecode-bean/dutchman/dutchman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refliction-week2/ex2-amazinghelloworld.iml" filepath="$PROJECT_DIR$/refliction-week2/ex2-amazinghelloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Exercise3/ex3-thecursedcoin/ex3-thecursedcoin.iml" filepath="$PROJECT_DIR$/Spring-Exercise3/ex3-thecursedcoin/ex3-thecursedcoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-Piratesofthecode-bean/jacksparrow/jacksparrow.iml" filepath="$PROJECT_DIR$/web-Piratesofthecode-bean/jacksparrow/jacksparrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/marathon-client/marathon-client.iml" filepath="$PROJECT_DIR$/web/marathon-client/marathon-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-marco&amp;polo/marco1/marcotest.iml" filepath="$PROJECT_DIR$/web-marco&amp;polo/marco1/marcotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-marco&amp;polo/polo/polo-server.iml" filepath="$PROJECT_DIR$/web-marco&amp;polo/polo/polo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web2/shape/shape.iml" filepath="$PROJECT_DIR$/web2/shape/shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-Piratesofthecode-bean/tiadalma/tiadalma.iml" filepath="$PROJECT_DIR$/web-Piratesofthecode-bean/tiadalma/tiadalma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web3/weather-client/weather-client.iml" filepath="$PROJECT_DIR$/web3/weather-client/weather-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web3/weather-server/weather-server.iml" filepath="$PROJECT_DIR$/web3/weather-server/weather-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/marathon-server/web.iml" filepath="$PROJECT_DIR$/web/marathon-server/web.iml" />
+    </modules>
+  </component>
+</project>

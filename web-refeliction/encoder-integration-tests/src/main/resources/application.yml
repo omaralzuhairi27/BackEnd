@@ -1,0 +1,19 @@
+server:
+  port: 9003
+
+encoder:
+  url: http://localhost:9000/encode
+
+test:
+  messages:
+    - plaintext: a
+      ciphertext: .-
+    - plaintext: hello
+      ciphertext: ......-...-..---
+    - plaintext: hello there
+      ciphertext: ......-...-..----......-..
+    - plaintext: these are 4 words
+      ciphertext: -..........-.-......-.-----.-.-.....
+    - plaintext: What hath God wrought
+      ciphertext: .--.....--.....--....--.----...--.-.---..---.....-
+          

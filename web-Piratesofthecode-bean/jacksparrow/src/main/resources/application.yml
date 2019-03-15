@@ -1,0 +1,5 @@
+server:
+  port: 9000
+
+tiadalma:
+  url: http://localhost:9001/dutchman

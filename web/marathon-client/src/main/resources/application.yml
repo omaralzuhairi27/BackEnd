@@ -1,0 +1,33 @@
+server:
+  port: 9001
+
+marathon:
+  server:
+    url: http://localhost:9000
+  endpoints:
+    runners: ${marathon.server.url}/runners
+    winner: ${marathon.server.url}/winner
+
+dataset:
+  runners:
+    - name: Mikehttp://localhost:9001/marathon
+      time: PT1H10M
+    - name: John
+      time: PT1H15M
+    - name: Larry
+      time: PT1H20M
+    - name: Thomson
+      time: PT1H30M
+    - name: Peter
+      time: PT2H10M
+    - name: Mona
+      time: PT1H05M
+    - name: Milton
+      time: PT1H13M
+    - name: Lila
+      time: PT1H14M
+    - name: Linda
+      time: PT1H0M
+    - name: Monica
+      time: PT0H58M
+  winner: Monica

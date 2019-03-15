@@ -1,0 +1,5 @@
+server:
+  port: 9001
+
+dutchman:
+  url: http://localhost:9002/deadmanschest

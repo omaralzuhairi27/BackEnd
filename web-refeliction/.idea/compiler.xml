@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="encoder" />
+        <module name="encoder-integration-tests" />
+        <module name="morse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="encoder" target="11" />
+      <module name="encoder-integration-tests" target="11" />
+      <module name="morse" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="encoder" options="-parameters" />
+      <module name="encoder-integration-tests" options="-parameters" />
+      <module name="morse" options="-parameters" />
+    </option>
+  </component>
+</project>

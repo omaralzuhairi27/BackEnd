@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/refliction-week2/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Exercise9/Spring-Exercise9/pom.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/web/marathon-server/pom.xml" />
+        <option value="$PROJECT_DIR$/web/marathon-client/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Exercise3/ex3-thecursedcoin/pom.xml" />
+        <option value="$PROJECT_DIR$/web2/shape/pom.xml" />
+        <option value="$PROJECT_DIR$/web3/weather-client/pom.xml" />
+        <option value="$PROJECT_DIR$/web3/weather-server/pom.xml" />
+        <option value="$PROJECT_DIR$/web-marco&amp;polo/marco/pom.xml" />
+        <option value="$PROJECT_DIR$/web-marco&amp;polo/polo/pom.xml" />
+        <option value="$PROJECT_DIR$/web-marco&amp;polo/marco1/pom.xml" />
+        <option value="$PROJECT_DIR$/web-Piratesofthecode-bean/dutchman/pom.xml" />
+        <option value="$PROJECT_DIR$/web-Piratesofthecode-bean/tiadalma/pom.xml" />
+        <option value="$PROJECT_DIR$/web-Piratesofthecode-bean/jacksparrow/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
