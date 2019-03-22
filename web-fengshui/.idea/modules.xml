@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fengshui/fengshui.iml" filepath="$PROJECT_DIR$/fengshui/fengshui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-fengshui.iml" filepath="$PROJECT_DIR$/web-fengshui.iml" />
+    </modules>
+  </component>
+</project>

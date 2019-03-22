@@ -15,6 +15,7 @@
         <module name="marco-Client" />
         <module name="marcotest" />
         <module name="polo-server" />
+        <module name="properties-yml" />
         <module name="shape" />
         <module name="tiadalma" />
         <module name="weather-client" />
@@ -33,6 +34,7 @@
       <module name="marco-Client" target="11" />
       <module name="marcotest" target="11" />
       <module name="polo-server" target="11" />
+      <module name="properties-yml" target="11" />
       <module name="shape" target="11" />
       <module name="tiadalma" target="11" />
       <module name="weather-client" target="11" />
@@ -52,6 +54,7 @@
       <module name="marco-Client" options="-parameters" />
       <module name="marcotest" options="-parameters" />
       <module name="polo-server" options="-parameters" />
+      <module name="properties-yml" options="-parameters" />
       <module name="shape" options="-parameters" />
       <module name="tiadalma" options="-parameters" />
       <module name="weather-client" options="-parameters" />
