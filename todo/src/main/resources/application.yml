@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/todos
+
+awebsite:
+  url: https://jsonplaceholder.typicode.com/todos
+
+server:
+  port: 9000

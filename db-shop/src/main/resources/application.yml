@@ -1,0 +1,20 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/shop
+
+
+dataset:
+  items:
+    - name: keyboard
+      type: electronics
+      price: 52.90
+    - name: sofa
+      type: home
+      price: 45.95
+    - name: sofa
+      type: home
+      price: 79.95
+    - name: headphones
+      type: electronics
+      price: 30.49

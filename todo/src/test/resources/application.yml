@@ -1,0 +1,6 @@
+dataset:
+  todos:
+    - title: sleep
+      done: false
+    - title: shopping
+      done: true
