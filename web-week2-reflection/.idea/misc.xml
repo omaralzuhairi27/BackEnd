@@ -5,6 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/drhouse-admission/pom.xml" />
         <option value="$PROJECT_DIR$/drhouse-diagnoses/pom.xml" />
+        <option value="$PROJECT_DIR$/drhouse-beds/pom.xml" />
+        <option value="$PROJECT_DIR$/drhouse-pharmacy/pom.xml" />
+        <option value="$PROJECT_DIR$/drhouse-accountancy/pom.xml" />
       </list>
     </option>
   </component>

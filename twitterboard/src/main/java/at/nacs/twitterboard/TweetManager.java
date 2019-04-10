@@ -39,13 +39,12 @@ public class TweetManager {
         return tweet;
     }
 
-    public Tweet addComment(String id, String comment){
+    public void addComment(String id,  String comment){
         Tweet tweet = repository.findById(id).orElse(null);
         List<String> comments = tweet.getComments();
         comments.add(comment);
         tweet.setComments(comments);
         repository.save(tweet);
-        return tweet;
 
     }
 

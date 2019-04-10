@@ -14,8 +14,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class PatientEndpoint {
     private final Admission admission;
 
-    @PostMapping()
+    @PostMapping
      Patient post(@RequestBody Patient patient) {
-        return admission.post(patient);
+         admission.post(patient);
+         return patient;
     }
 }

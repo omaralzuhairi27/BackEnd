@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f71fe563-95a6-45a3-a1a0-7a55dfc6dfc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PasswordVerifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_mongo_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_process_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_orm_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/AccountantEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/domain/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/repository/InvoiceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/repository/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/communication/PatientEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/configuration/RestTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/logic/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/logic/TreatmentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/persistence/repository/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/configuration/RestTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/logic/DrHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/communication/PatientEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/configuration/RestTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/logic/ApothecaryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/logic/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/persistence/domain/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/persistence/repository/PatientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-fengshui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-fengshui/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-refeliction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-refeliction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/communication/PatientEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/communication/PatientEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/logic/Admission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/logic/Admission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/communication/PaientEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/communication/PaientEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domian/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/persistence/domain/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HaveOneDigit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LargerEightChars.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PasswordVerifierTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1302">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Verification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PasswordVerifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+              <folding>
+                <element signature="e#703#704#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NotNull.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OneLowercaseLetter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OneUppercaseLetter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Verifications.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Verification.java" />
+        <option value="$PROJECT_DIR$/src/OneUppercaseLetter.java" />
+        <option value="$PROJECT_DIR$/src/OneLowercaseLetter.java" />
+        <option value="$PROJECT_DIR$/src/HaveOneLetter.java" />
+        <option value="$PROJECT_DIR$/src/LargerEightChars.java" />
+        <option value="$PROJECT_DIR$/src/HaveOneDigit.java" />
+        <option value="$PROJECT_DIR$/src/NotNull.java" />
+        <option value="$PROJECT_DIR$/src/PasswordVerifierTest.java" />
+        <option value="$PROJECT_DIR$/src/Verifications.java" />
+        <option value="$PROJECT_DIR$/src/PasswordVerifier.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="673" />
+    <option name="y" value="160" />
+    <option name="width" value="924" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PasswordVerifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PasswordVerifier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PasswordVerifier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PasswordVerifier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554814746709" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/lib/junit-jupiter-params-5.3.2.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PasswordVerifierTest">
+    <configuration name="PasswordVerifierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PasswordVerifier" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PasswordVerifierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordVerifierTest.part1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PasswordVerifier" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PasswordVerifierTest" />
+      <option name="METHOD_NAME" value="part1(java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordVerifierTest.part2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PasswordVerifier" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PasswordVerifierTest" />
+      <option name="METHOD_NAME" value="part2(java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordVerifierTest.part3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PasswordVerifier" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PasswordVerifierTest" />
+      <option name="METHOD_NAME" value="part3(java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordVerifierTest.testAllRules (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PasswordVerifier" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PasswordVerifierTest" />
+      <option name="METHOD_NAME" value="testAllRules(int,java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PasswordVerifierTest" />
+        <item itemvalue="JUnit.PasswordVerifierTest.part2" />
+        <item itemvalue="JUnit.PasswordVerifierTest.part1 (1)" />
+        <item itemvalue="JUnit.PasswordVerifierTest.part3" />
+        <item itemvalue="JUnit.PasswordVerifierTest.testAllRules (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f71fe563-95a6-45a3-a1a0-7a55dfc6dfc7" name="Default Changelist" comment="" />
+      <created>1554725697972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554725697972</updated>
+      <workItem from="1554725706248" duration="1512000" />
+      <workItem from="1554793776453" duration="9499000" />
+      <workItem from="1554803941628" duration="113000" />
+      <workItem from="1554804071696" duration="33000" />
+      <workItem from="1554804123592" duration="4231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PasswordVerifierTest - 2019.04.09 at 14h 09m 17s.xml">
+      <configuration name="PasswordVerifierTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_testAllRules_(1) - 2019.04.09 at 14h 09m 23s.xml">
+      <configuration name="PasswordVerifierTest.testAllRules (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_part3 - 2019.04.09 at 14h 11m 25s.xml">
+      <configuration name="PasswordVerifierTest.part3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_part2 - 2019.04.09 at 14h 12m 48s.xml">
+      <configuration name="PasswordVerifierTest.part2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_part2 - 2019.04.09 at 14h 13m 34s.xml">
+      <configuration name="PasswordVerifierTest.part2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_part1_(1) - 2019.04.09 at 14h 19m 00s.xml">
+      <configuration name="PasswordVerifierTest.part1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_part2 - 2019.04.09 at 14h 27m 44s.xml">
+      <configuration name="PasswordVerifierTest.part2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_part2 - 2019.04.09 at 14h 29m 18s.xml">
+      <configuration name="PasswordVerifierTest.part2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest_part2 - 2019.04.09 at 14h 30m 41s.xml">
+      <configuration name="PasswordVerifierTest.part2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PasswordVerifierTest - 2019.04.09 at 14h 30m 56s.xml">
+      <configuration name="PasswordVerifierTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15388000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="27" width="1867" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2608457" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/PasswordVerifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Verification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HaveOneDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LargerEightChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NotNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneUppercaseLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Verifications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneLowercaseLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PasswordVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+          <folding>
+            <element signature="e#703#704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PasswordVerifier</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-jupiter-params-5.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

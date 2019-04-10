@@ -1,0 +1,15 @@
+server:
+  port: 9003
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/Beds
+accountancy:
+  url: http://localhost:9005/patients
+
+nurse:
+  treatments:
+     cold: vitaminC
+     fever: antipyretic
+

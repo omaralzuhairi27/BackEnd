@@ -34,8 +34,8 @@ public class TweetEndpoint {
     }
 
     @PutMapping("/{id}/comments")
-    Tweet addOneComment(@RequestBody String comment, @PathVariable String id) {
-        return tweetManager.addComment(id, comment);
+    void addOneComment( @PathVariable String id, @RequestBody String comment) {
+         tweetManager.addComment( id,comment);
     }
 }
 /*

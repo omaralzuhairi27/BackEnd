@@ -1,0 +1,13 @@
+data:
+  contact1:
+    name: omar
+    address:
+      name: rechte
+  contact2:
+    name: tamara
+    address:
+      name: rechte
+  contact3:
+    name: rabi
+    address:
+      name: stefan

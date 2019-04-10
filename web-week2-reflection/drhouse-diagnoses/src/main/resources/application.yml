@@ -2,3 +2,13 @@ server:
   port: 9002
 
 
+beds:
+    bedsurl: http://localhost:9003/patients
+
+pharmacy:
+    pharmacyurl: http://localhost:9004/patients
+
+doctor:
+  diagnosis:
+    cough: cold
+    fever: inflammation

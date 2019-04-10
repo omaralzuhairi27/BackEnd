@@ -1,0 +1,18 @@
+server:
+  port: 9004
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/pharmacy
+
+
+accountancy:
+  url: localhost:9005/patients
+
+pharmacy:
+  medicine:
+    headache: painkiller
+
+
+

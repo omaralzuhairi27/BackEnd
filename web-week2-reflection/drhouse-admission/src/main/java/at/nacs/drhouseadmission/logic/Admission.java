@@ -13,13 +13,14 @@ import java.util.UUID;
 public class Admission {
 
     private final RestTemplate restTemplate;
-    @Value("${diagnoses.url}")
+    @Value("${diagnosis.url}")
     private String url;
 
     public Patient post(Patient patient) {
         String id = UUID.randomUUID().toString();
         patient.setId(id);
-        return restTemplate.postForObject(url, patient, Patient.class);
+         restTemplate.postForObject(url, patient, Patient.class);
+         return patient;
 
     }
 }
