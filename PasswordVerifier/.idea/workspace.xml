@@ -2,76 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f71fe563-95a6-45a3-a1a0-7a55dfc6dfc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PasswordVerifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_mongo_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_process_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_orm_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/AccountantEndpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/domain/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/repository/InvoiceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/repository/PatientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/communication/PatientEndpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/configuration/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/logic/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/logic/TreatmentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/persistence/repository/PatientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/configuration/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/logic/DrHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/communication/PatientEndpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/configuration/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/logic/ApothecaryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/logic/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/persistence/domain/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/persistence/repository/PatientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../twitterboard/src/main/java/at/nacs/twitterboard/TweetManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-fengshui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-fengshui/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-refeliction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-refeliction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/test/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/HaveOneDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/LargerEightChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/META-INF/PasswordVerifier.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/NotNull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/OneLowercaseLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/OneUppercaseLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/PasswordVerifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/PasswordVerifierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/Verification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PasswordVerifier/Verifications.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HasOneDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneDigitVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HasOneLowercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OneLowercaseVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HasOneUppercase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NotNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NotNullVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Verifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Verifications.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web-week2-reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/communication/PatientEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/communication/PatientEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/logic/Admission.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/logic/Admission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-admission/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/communication/PaientEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/communication/PaientEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domian/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/persistence/domain/Patient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-diagnoses/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/AccountantEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/AccountantEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,32 +39,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HaveOneDigit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LargerEightChars.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PasswordVerifierTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1302">
-              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state relative-caret-position="341">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,12 +59,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PasswordVerifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+            <state relative-caret-position="403">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
+                <element signature="e#639#640#0" expanded="true" />
                 <element signature="e#703#704#0" expanded="true" />
               </folding>
             </state>
@@ -138,33 +73,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NotNull.java">
+        <entry file="file://$PROJECT_DIR$/src/LengthVerifier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-              </folding>
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneLowercaseLetter.java">
+        <entry file="file://$PROJECT_DIR$/src/OneUppercaseVerifier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OneUppercaseLetter.java">
+        <entry file="file://$PROJECT_DIR$/src/OneLowercaseVerifier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="62">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OneDigitVerifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="6" selection-start-line="2" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NotNullVerifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,12 +123,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Verifications.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="341">
               <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,8 +138,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -206,10 +155,17 @@
         <option value="$PROJECT_DIR$/src/HaveOneLetter.java" />
         <option value="$PROJECT_DIR$/src/LargerEightChars.java" />
         <option value="$PROJECT_DIR$/src/HaveOneDigit.java" />
-        <option value="$PROJECT_DIR$/src/NotNull.java" />
         <option value="$PROJECT_DIR$/src/PasswordVerifierTest.java" />
         <option value="$PROJECT_DIR$/src/Verifications.java" />
         <option value="$PROJECT_DIR$/src/PasswordVerifier.java" />
+        <option value="$PROJECT_DIR$/src/LengthVerifier.java" />
+        <option value="$PROJECT_DIR$/src/HasOneUppercase.java" />
+        <option value="$PROJECT_DIR$/src/OneUppercaseVerifier.java" />
+        <option value="$PROJECT_DIR$/src/HasOneDigit.java" />
+        <option value="$PROJECT_DIR$/src/HasOneLowercase.java" />
+        <option value="$PROJECT_DIR$/src/OneLowercaseVerifier.java" />
+        <option value="$PROJECT_DIR$/src/NotNull.java" />
+        <option value="$PROJECT_DIR$/src/NotNullVerifier.java" />
       </list>
     </option>
   </component>
@@ -254,7 +210,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554814746709" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554880977374" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -264,7 +220,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -361,6 +317,10 @@
       <workItem from="1554803941628" duration="113000" />
       <workItem from="1554804071696" duration="33000" />
       <workItem from="1554804123592" duration="4231000" />
+      <workItem from="1554879877833" duration="1568000" />
+      <workItem from="1554881475006" duration="143000" />
+      <workItem from="1554896689699" duration="599000" />
+      <workItem from="1554898556097" duration="1422000" />
     </task>
     <servers />
   </component>
@@ -397,13 +357,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15388000" />
+    <option name="totallyTimeSpent" value="19120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="27" width="1867" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2608457" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27347612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -413,7 +372,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,10 +399,16 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HaveOneDigit.java" />
+    <entry file="file://$PROJECT_DIR$/src/LargerEightChars.java" />
+    <entry file="file://$PROJECT_DIR$/src/OneUppercaseLetter.java" />
+    <entry file="file://$PROJECT_DIR$/src/OneLowercaseLetter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Length.java" />
+    <entry file="file://$PROJECT_DIR$/src/HasOneUppercase.java" />
     <entry file="file://$PROJECT_DIR$/src/PasswordVerifierTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="341">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -457,68 +422,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HaveOneDigit.java">
+    <entry file="file://$PROJECT_DIR$/src/PasswordVerifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargerEightChars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        <state relative-caret-position="403">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NotNull.java">
+    <entry file="file://$PROJECT_DIR$/src/LengthVerifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OneUppercaseLetter.java">
+    <entry file="file://$PROJECT_DIR$/src/OneUppercaseVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneLowercaseVerifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneDigitVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="6" selection-start-line="2" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Verifications.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
+        <state relative-caret-position="341">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OneLowercaseLetter.java">
+    <entry file="file://$PROJECT_DIR$/src/NotNullVerifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PasswordVerifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+        <state relative-caret-position="186">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding>
-            <element signature="e#703#704#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

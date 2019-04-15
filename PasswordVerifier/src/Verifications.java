@@ -4,10 +4,10 @@ import java.util.List;
 public class Verifications {
 
     private static List<Verification> verifications= Arrays.asList(
-            new NotNull(),
-            new HaveOneDigit(),
+            new NotNullVerifier(),
+            new OneDigitVerifier(),
             new LargerEightChars(),
-            new OneLowercaseLetter(),
+            new OneLowercaseVerifier(),
             new OneUppercaseLetter());
 
     public static List<Verification> asList() {

@@ -1,0 +1,20 @@
+data:
+  patient1:
+    name: omar
+    symptoms: cough
+    diagnosis: cold
+    treatment: vitaminC
+  patient2:
+    name: adkakf
+    symptoms: anything
+    diagnosis: headache
+    medicine: painkiller
+
+
+
+
+treatment:
+  prices:
+    vitaminC: 30.00
+    antipyretic: 10.00
+    painkiller: 5.00
