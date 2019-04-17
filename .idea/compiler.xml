@@ -18,6 +18,7 @@
         <module name="properties-yml" />
         <module name="shape" />
         <module name="tiadalma" />
+        <module name="todo" />
         <module name="weather-client" />
         <module name="weather-server" />
         <module name="web" />
@@ -37,6 +38,7 @@
       <module name="properties-yml" target="11" />
       <module name="shape" target="11" />
       <module name="tiadalma" target="11" />
+      <module name="todo" target="11" />
       <module name="weather-client" target="11" />
       <module name="weather-server" target="11" />
       <module name="web" target="11" />
@@ -57,6 +59,7 @@
       <module name="properties-yml" options="-parameters" />
       <module name="shape" options="-parameters" />
       <module name="tiadalma" options="-parameters" />
+      <module name="todo" options="-parameters" />
       <module name="weather-client" options="-parameters" />
       <module name="weather-server" options="-parameters" />
       <module name="web" options="-parameters" />

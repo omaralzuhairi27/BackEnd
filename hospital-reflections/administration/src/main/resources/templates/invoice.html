@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Invoices</title>
+    <link media="" rel="stylesheet" th:href="@{/css/style.css}" type="text/css">
+</head>
+<body>
+<table class="blueTable">
+    <tr>
+        <th>id</th>
+        <th>Patient</th>
+        <th>kind</th>
+        <th>Symptoms</th>
+        <th>Diagnosis</th>
+        <th>Provided</th>
+        <th>Cost</th>
+        <th>Paid</th>
+        <th>Delete</th>
+    </tr>
+    <tr th:each="invoice : ${invoices}">
+        <td th:text="${invoice.id}">Id</td>
+        <td th:text="${invoice.patient.name}">Patient</td>
+        <td th:text="${invoice.kind}">kind</td>
+        <td th:text="${invoice.symptoms}">Symptoms</td>
+        <td th:text="${invoice.diagnosis}">Diagnosis</td>
+        <td th:text="${invoice.provided}">Provided</td>
+        <td th:text="${invoice.cost}">cost</td>
+        <td>
+            <span th:if="${invoice.paid==false}">
+            <form method="post" th:action="@{/invoices/paid}">
+                <input name="id" th:value="${invoice.id}" type="hidden"/>
+                <button>done</button>
+            </form>
+            </span>
+            <span th:if="${invoice.paid==true}">Paid!</span>
+        </td>
+        <td>
+            <form method="post" th:action="@{/invoices/delete}">
+                <input name="id" th:value="${invoice.id}" type="hidden"/>
+                <button>Delete</button>
+            </form>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

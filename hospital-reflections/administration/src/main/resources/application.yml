@@ -1,0 +1,9 @@
+server:
+  port: 9000
+
+
+admission:
+  url: http://localhost:9001/patients
+
+accountancy:
+  url: http://localhost:9005/invoices

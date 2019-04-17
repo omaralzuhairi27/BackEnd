@@ -15,7 +15,6 @@ public class SimpleMessageController {
     return "Hello Word";
   }
 
-
   @GetMapping
   String page(){
     return "/messages/simple-message";

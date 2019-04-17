@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/encoder/encoder.iml" filepath="$PROJECT_DIR$/encoder/encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/morse/morse.iml" filepath="$PROJECT_DIR$/morse/morse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/morseencoderui.iml" filepath="$PROJECT_DIR$/ui/morseencoderui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/the-morse-encoder-uI.iml" filepath="$PROJECT_DIR$/the-morse-encoder-uI.iml" />
+    </modules>
+  </component>
+</project>

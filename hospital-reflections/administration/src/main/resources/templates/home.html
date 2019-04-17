@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link media="" rel="stylesheet" th:href="@{/css/style.css}" type="text/css">
+</head>
+<body>
+
+<form method="post" th:action="@{/}" th:object="${patient}">
+    <div>
+        <img th:src="@{/images/Itsnotlupus.png}" alt="DoHouse" class="avatar">
+    </div>
+
+    <div class=" container">
+        <label><b>Name</b></label>
+        <input th:field="*{name}" type="text" placeholder="Enter your Name">
+        <p th:errors="*{name}" th:if="${#fields.hasErrors('name')}">Incorrect input</p>
+
+        <label><b>Symptoms</b></label>
+        <input th:field="*{symptoms}" type="text" placeholder="Enter your Symptoms ">
+        <p th:errors="*{symptoms}" th:if="${#fields.hasErrors('symptoms')}">Incorrect input</p>
+
+        <button type="submit">submit</button>
+
+    </div>
+</form>
+</body>
+</html>

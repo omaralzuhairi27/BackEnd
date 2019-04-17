@@ -2,76 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ff81604-ae04-4ba3-bb23-8afe338fb18b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PasswordVerifier/src/PasswordVerifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_mongo_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_process_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_orm_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/AccountantEndpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/domain/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/repository/InvoiceRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/repository/PatientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/communication/PatientEndpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/configuration/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/logic/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/logic/TreatmentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-beds/src/main/java/at/nacs/drhousebeds/persistence/repository/PatientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/configuration/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/logic/DrHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/communication/PatientEndpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/configuration/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/logic/ApothecaryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/logic/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/persistence/domain/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-pharmacy/src/main/java/at/nacs/drhousepharmacy/persistence/repository/PatientRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/re-exampleTemplating/src/main/java/at/nacs/reexample/view/controller/SimpleMeassage2Controllar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/communication/PatientDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitterboard/src/main/java/at/nacs/twitterboard/TweetEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitterboard/src/main/java/at/nacs/twitterboard/TweetEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitterboard/src/main/java/at/nacs/twitterboard/TweetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitterboard/src/main/java/at/nacs/twitterboard/TweetManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-fengshui/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-fengshui/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-refeliction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-refeliction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re-exampleTemplating/src/main/java/at/nacs/reexample/view/controller/SimpleMeassage2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/re-exampleTemplating/src/main/java/at/nacs/reexample/view/controller/SimpleMessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/re-exampleTemplating/src/main/java/at/nacs/reexample/view/controller/SimpleMessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re-exampleTemplating/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/re-exampleTemplating/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/re-exampleTemplating/src/main/resources/templates/messages/simple-message2.html" beforeDir="false" afterPath="$PROJECT_DIR$/re-exampleTemplating/src/main/resources/templates/messages/simple-message2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web-week2-reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/communication/PatientEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/communication/PatientEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/logic/Admission.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-admission/src/main/java/at/nacs/drhouseadmission/logic/Admission.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-admission/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-admission/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/DrHouse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/communication/PaientEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/communication/PaientEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/domian/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/java/at/nacs/drhousediagnoses/persistence/domain/Patient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-diagnoses/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/AccountantEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/communication/AccountantEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/InvoiceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/InvoiceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/PatientManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/logic/PatientManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/java/at/nacs/drhouseaccountancy/persistence/domain/PatientDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/web-week2-reflection/drhouse-accountancy/src/test/java/at/nacs/drhouseaccountancy/logic/AccountantTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/refliction-week2/target/" />
@@ -90,6 +40,7 @@
     <ignored path="$PROJECT_DIR$/web-Piratesofthecode-bean/tiadalma/target/" />
     <ignored path="$PROJECT_DIR$/web-Piratesofthecode-bean/jacksparrow/target/" />
     <ignored path="$PROJECT_DIR$/Spring-part2-Exercise6/ex6-properties-yml/target/" />
+    <ignored path="$PROJECT_DIR$/todo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,48 +50,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web2/shape/src/main/java/com/example/shape/communication/ShapesEndpoint.java">
+        <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/ToDoManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#945#946#0" expanded="true" />
-                <element signature="e#988#989#0" expanded="true" />
-                <element signature="e#1060#1061#0" expanded="true" />
-                <element signature="e#1110#1111#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-394">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-refeliction/encoder/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-refeliction/morse/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring-part2-Exercise6/ex6-properties-yml/src/main/java/at/nacs/propertiesyml/FirstClass.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/ObjectNotFoundException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="124">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring-Exercise2/ex2-amazinghelloworld/src/test/java/at/nacs/ex2amazinghelloworld/AmazingHelloWorldTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-245" />
           </provider>
         </entry>
       </file>
@@ -155,19 +78,44 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise4/ex4-theenglishgentleman/src/test/java/at/nacs/ex4theenglishgentleman/CigarTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-372" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Spring-Exercise9/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-22">
+            <state relative-caret-position="31">
               <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/TodoRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/TodoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -282,7 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,90 +240,25 @@
             <path>
               <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-Exercise9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cinemamessagetemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="logic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-properties-yml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-properties-yml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-properties-yml" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-properties-yml" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -384,40 +266,26 @@
             <path>
               <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-properties-yml" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="propertiesyml" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-properties-yml" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring-part2-Exercise6" type="462c0819:PsiDirectoryNode" />
-              <item name="ex6-properties-yml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BackEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="web-refeliction" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,7 +295,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553780008638" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555406345269" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -461,7 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.TiadalmaApplication">
+  <component name="RunManager" selected="Spring Boot.TodoApplication">
     <configuration name="TemplateEngineTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="cinema-message-template" />
       <extension name="coverage">
@@ -560,6 +428,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TodoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="todo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.todo.TodoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WeatherClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="weather-client" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.weatherclient.WeatherClientApplication" />
@@ -614,6 +489,7 @@
       <workItem from="1553768761146" duration="1281000" />
       <workItem from="1553782643755" duration="656000" />
       <workItem from="1554795499554" duration="757000" />
+      <workItem from="1555406055755" duration="390000" />
     </task>
     <servers />
   </component>
@@ -623,12 +499,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44864000" />
+    <option name="totallyTimeSpent" value="45254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="27" width="1867" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.31301484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.31685886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -670,35 +547,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web3/weather-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web2/shape/src/main/java/com/example/shape/persistence/ShapeRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-marco&amp;polo/marco/src/main/java/at/nacs/demo/RestTemplateConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/web-marco&amp;polo/marco/src/main/java/at/nacs/demo/MarcoEndpoint.java" />
-    <entry file="file://$PROJECT_DIR$/refliction-week2/src/test/java/at/nacs/ex2amazinghelloworld/PrimesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-marco&amp;polo/marco/src/main/java/at/nacs/demo/MarcoApplication.java" />
     <entry file="file://$PROJECT_DIR$/web-marco&amp;polo/polo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -996,6 +844,26 @@
     <entry file="file://$PROJECT_DIR$/web-refeliction/morse/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-part2-Exercise6/ex6-properties-yml/src/main/java/at/nacs/propertiesyml/FirstClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise2/ex2-amazinghelloworld/src/test/java/at/nacs/ex2amazinghelloworld/AmazingHelloWorldTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise3/ex3-thecursedcoin/src/test/java/at/nacs/ex3thecursedcoin/JackSparrowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Exercise4/ex4-theenglishgentleman/src/test/java/at/nacs/ex4theenglishgentleman/CigarTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-marco&amp;polo/marco1/src/main/java/ar/nacs/marcotest/MarcoEndpoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -1015,37 +883,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-part2-Exercise6/ex6-properties-yml/src/main/java/at/nacs/propertiesyml/FirstClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise2/ex2-amazinghelloworld/src/test/java/at/nacs/ex2amazinghelloworld/AmazingHelloWorldTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise3/ex3-thecursedcoin/src/test/java/at/nacs/ex3thecursedcoin/JackSparrowTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring-Exercise4/ex4-theenglishgentleman/src/test/java/at/nacs/ex4theenglishgentleman/CigarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-372" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spring-Exercise9/Spring-Exercise9/src/test/java/at/nacs/cinemamessagetemplate/logic/TemplateEngineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
+        <state relative-caret-position="31">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/TodoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/TodoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/ToDoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-394">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/src/main/java/at/nacs/todo/ObjectNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

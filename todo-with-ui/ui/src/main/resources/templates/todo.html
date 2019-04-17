@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>To Do</title>
+    <meta charset="UTF-8">
+    <link media="all" rel="stylesheet" th:href="@{/css/style.css}" type="text/css"/>
+
+</head>
+<body>
+<h1>TODO</h1>
+<h2>Add new Todo</h2>
+<form method="post" th:action="@{/}" th:object="${todo}">
+    <label>Title: </label>
+    <input th:field="*{title}" type="text"/>
+    <p th:errors="*{title}" th:if="${#fields.hasErrors('title')}">Incorrect input</p>
+    <br/>
+    <button type="submit">Add todo</button>
+</form>
+<table>
+    <tr>
+        <th>To Do</th>
+        <th>Delete</th>
+        <th>done</th>
+    </tr>
+    <tr th:each="todo : ${todos}">
+        <td th:text="${todo.title}">Title</td>
+        <td>
+            <form method="post" th:action="@{/delete}">
+                <input name="id" th:value="${todo.id}" type="hidden"/>
+                <button>Delete</button>
+            </form>
+        </td>
+        <td >
+            <span th:if="${todo.done==false}">
+            <form method="post" th:action="@{/done}">
+                <input name="id" th:value="${todo.id}" type="hidden"/>
+                <button>done</button>
+            </form>
+            </span>
+            <span th:if="${todo.done==true}">done!</span>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

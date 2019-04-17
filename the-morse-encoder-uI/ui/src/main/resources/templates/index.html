@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+
+
+<form method="post" th:action="@{/}" th:object="${message}">
+    <label>send the message</label>
+    <input th:field="*{text}" type="text"/>
+    <button type="submit">send the message</button>
+</form>
+
+<h2>Message sent: <span th:text="${ciphertext.text}">Message that you sent</span></h2>
+
+
+</body>
+</html>
