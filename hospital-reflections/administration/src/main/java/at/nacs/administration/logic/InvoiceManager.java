@@ -26,7 +26,7 @@ public class InvoiceManager {
   }
 
   public void deleteInvoive(Long id) {
-    restTemplate.put(url + "/" + id + "/delete", void.class);
+    restTemplate.delete(url + "/" + id);
   }
 
 

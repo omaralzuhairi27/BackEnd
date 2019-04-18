@@ -29,7 +29,7 @@ public class AccountantEndpoint {
     Invoice invoice = accountant.setPaid(id);
   }
 
-  @DeleteMapping("/invoices/{id}/delete")
+  @DeleteMapping("/invoices/{id}")
   void deleteInvoice(@PathVariable long id) {
     accountant.delete(id);
   }
