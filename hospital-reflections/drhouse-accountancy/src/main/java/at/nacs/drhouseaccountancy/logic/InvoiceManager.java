@@ -48,9 +48,9 @@ public class InvoiceManager {
 
   public String getProvided(PatientDTO patientDTO) {
     if (Objects.equals(patientDTO.getMedicine(), null)) {
-      return "treatment";
+      return patientDTO.getTreatment();
     }
-    return "medicine";
+    return patientDTO.getMedicine();
   }
 
   public Double calculateCost(PatientDTO patientDTO) {

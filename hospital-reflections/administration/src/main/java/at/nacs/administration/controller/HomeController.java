@@ -1,7 +1,7 @@
 package at.nacs.administration.controller;
 
+import at.nacs.administration.client.AdmisstionClient;
 import at.nacs.administration.domain.Patient;
-import at.nacs.administration.logic.Manger;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
@@ -17,7 +17,7 @@ import javax.validation.Valid;
 @RequiredArgsConstructor
 public class HomeController {
 
-  private final Manger manger;
+  private final AdmisstionClient admisstionClient;
 
   @ModelAttribute("patient")
   Patient patient() {
@@ -34,7 +34,7 @@ public class HomeController {
     if (result.hasErrors()) {
       return page();
     }
-    manger.post(patient);
+    admisstionClient.post(patient);
     return "redirect:/";
   }
 

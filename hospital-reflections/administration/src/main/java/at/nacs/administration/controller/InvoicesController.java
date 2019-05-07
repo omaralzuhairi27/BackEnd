@@ -1,23 +1,24 @@
 package at.nacs.administration.controller;
 
+import at.nacs.administration.client.InvoiceClient;
 import at.nacs.administration.domain.Invoice;
-import at.nacs.administration.logic.InvoiceManager;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
+import javax.annotation.security.RolesAllowed;
 import java.util.List;
 
 @Controller
 @RequiredArgsConstructor
 @RequestMapping("/invoices")
 public class InvoicesController {
-  private final InvoiceManager manager;
+  private final InvoiceClient manager;
 
   @ModelAttribute("invoices")
+  @RolesAllowed("USER")
   List<Invoice> todos() {
-    List<Invoice> invoices = manager.getAllInvoive();
-    return invoices;
+    return manager.getAllInvoive();
   }
 
   @GetMapping
@@ -39,4 +40,3 @@ public class InvoicesController {
 
 
 }
-//"/invoices/{id}/delete"

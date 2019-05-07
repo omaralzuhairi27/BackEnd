@@ -1,4 +1,4 @@
-package at.nacs.administration.logic;
+package at.nacs.administration.client;
 
 import at.nacs.administration.domain.Patient;
 import lombok.RequiredArgsConstructor;
@@ -8,7 +8,7 @@ import org.springframework.web.client.RestTemplate;
 
 @Service
 @RequiredArgsConstructor
-public class Manger {
+public class AdmisstionClient {
 
   private final RestTemplate restTemplate;
 

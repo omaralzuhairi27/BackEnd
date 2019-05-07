@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>header
+        </th>
+    </tr>
+    <tr>
+        <td th:if="${dutchman.cursed==true}">
+            <form method="post" th:action="@{/logout}">
+                <button>logout</button>
+            </form>
+        </td>
+        <td th:if="${dutchman.cursed==false}">Dutchman is not cursed
+
+        </td>
+    </tr>
+</table>
+</body>
+</html>

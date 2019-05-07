@@ -1,4 +1,4 @@
-package at.nacs.administration.logic;
+package at.nacs.administration.client;
 
 import at.nacs.administration.domain.Invoice;
 import lombok.RequiredArgsConstructor;
@@ -11,7 +11,7 @@ import java.util.List;
 
 @Service
 @RequiredArgsConstructor
-public class InvoiceManager {
+public class InvoiceClient {
   private final RestTemplate restTemplate;
   @Value("${accountancy.url}")
   private String url;
